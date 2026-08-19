@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
 title: Marvin8or's blog
 description: Bookmark this to keep an eye on my project updates!
+url: https://marvin8or.github.io
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
