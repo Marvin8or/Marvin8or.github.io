@@ -1,5 +1,5 @@
-title: Marvin8or's blog
-description: Bookmark this to keep an eye on my project updates!
+title: Gabriel Marvin
+footer_text: I love meeting new people. If you find interest in something I do, send me an email or message me on Twitter
 url: https://www.gabrielmarvin.com
 baseurl: ""
 
@@ -8,3 +8,11 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+header_pages:
+  - posts
+  - projects
+
+github_username:   Marvin8or
+linkedin_username: gabrielmarvin
+email: gabrielmarvin18@gmail.com
