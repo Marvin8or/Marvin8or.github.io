@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Gabriel Marvin
 ---
 
 # Research notes and engineering projects
