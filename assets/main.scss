@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/**
+ * Footer: only two columns are used, so let the text column take the
+ * rest of the row instead of minima's default 20%.
+ */
+.footer-col-2 {
+  width: calc(65% - #{$spacing-unit} / 2);
+}
+
+@media screen and (max-width: $on-laptop) {
+  .footer-col-2 {
+    width: calc(50% - #{$spacing-unit} / 2);
+  }
+}
+
+@media screen and (max-width: $on-palm) {
+  .footer-col-2 {
+    width: calc(100% - #{$spacing-unit} / 2);
+  }
+}
