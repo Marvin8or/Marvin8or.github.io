@@ -81,7 +81,7 @@ This process creates a traceable narrative of the project, where the questions I
 
 ## Next steps
 
-After pointing out at the project’s possible weak points, I focus on a section in the same note that I call "*Next steps*", where the main goal is to decide what direction should the project take in the near future.
+After pointing out at the project’s possible weak points, I focus on a section in the same note that I call "**Next steps**", where the main goal is to decide what direction should the project take in the near future.
 
 This stage is similar to the one I just described, but instead of explaining what was already done, the goal is to critically examine several plausible directions before committing.
 I start by generating a list of plausible future directions for the project, where my goal is to invalidate as many potential next steps as possible.
