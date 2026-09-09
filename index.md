@@ -14,3 +14,5 @@ Along the way, I worked through a bunch of books and courses in machine learning
 I started this blog mainly as a way to write about artificial intelligence, math and computer science topics that I find interesting, but also to express my ideas and meet new interesting people.
 I rotate hobbies often, and I've been captivated by a lot of activities, but the ones that stuck for many years are cooking, writing, fitness and boxing.
 I also own a [consultancy business](https://marvindigital.hr/) focused on custom algorithm development, machine learning solutions and research support.
+
+---
