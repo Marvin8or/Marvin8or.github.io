@@ -9,6 +9,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+exclude:
+  - serve.bat
+
 header_pages:
   - posts
   - projects

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I stay sane when working on complex topics."
-date: 2026-08-18 21:00:00 +0200
+date: 2026-09-09 21:00:00 +0200
 categories: research
 ---
 
